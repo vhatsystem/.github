@@ -1,2 +1,3 @@
 # .github
-Dit on github
+
+GitHub configuration for Việt Hùng Ltd.
